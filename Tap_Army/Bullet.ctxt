@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=counter
+comment0.target=Bullet(Counter)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment2.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+comment3.params=clss
+comment3.target=void\ eat(java.lang.Class)
+comment3.text=\r\n\ Try\ to\ eat\ an\ object\ of\ class\ 'clss'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\ Otherwise\ this\ method\ does\r\n\ nothing.\r\n
+numComments=4
